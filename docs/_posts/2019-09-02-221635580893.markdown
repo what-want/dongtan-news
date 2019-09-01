@@ -1,0 +1,10 @@
+---
+layout: post
+title: 신메뉴판
+date: 2019-09-01
+description: 사이드메뉴추가로 메뉴판 리뉴얼했어요 동탄역맛집동탄역양고기동탄2신도시맛집동탄양갈비맛집동탄역회식장소동탄역모임장소
+img: 221635580893.png
+fig-caption: # Add figcaption (optional)
+tags: [ 사이드,메뉴,추가,메뉴판,리뉴얼,신도시,맛집,갈비,맛집,회식,장소,모임,장소 ]
+---
+[신메뉴판](https://blog.naver.com/htkim_71?Redirect=Log&logNo=221635580893)
